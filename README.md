@@ -97,7 +97,7 @@
 ## Візуалізація в Tableau
 Інтерактивний дашборд доступний за посиланням:
 
-[🔗 [View Dashboard](YOUR_LINK)](https://public.tableau.com/app/profile/maryna.borysova/viz/SalesandSessions_17769518689940/SalesansSessions)
+[🔗 [View Dashboard]([(https://public.tableau.com/app/profile/maryna.borysova/viz/SalesandSessions_17769518689940/SalesansSessions])]
 
 Дашборд дозволяє:
 - аналізувати продажі
